@@ -69,12 +69,6 @@ compas %>%
   # we'll write our code together here
   filter() %>%
   ggplot()
-  # filter(race %in% c("African-American", "Caucasian")) %>%
-  # ggplot(aes(x = decile_score)) + 
-  # geom_bar() +
-  # scale_x_continuous(breaks = 1:10) +
-  # facet_wrap(~race) + 
-  # labs(title = "COMPAS recidivism risk scores")
 ```
 
 ## Comparing men and women defendants
